@@ -1,9 +1,9 @@
-.card img{
+.countryCard img{
     width: 100px;
     height: 100px;
 }
 
-.card{
+.countryCard{
     display: flex;
     flex-direction: column;
     align-items: center;
