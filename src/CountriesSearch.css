@@ -1,0 +1,16 @@
+#countries-flags {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    height: 100%;
+}
+
+input {
+ margin-top: 1rem;
+ margin-bottom: 1rem;
+ width: 30rem;
+ padding-left: 0.5rem;
+ height: 1.5rem;
+}
